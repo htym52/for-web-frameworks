@@ -2,6 +2,10 @@ body{
     font-size: medium;
 }
 
+.blue{
+color: blue;
+}
+
 img{
     width: auto;
     height: 150px; 

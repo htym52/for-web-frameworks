@@ -1,3 +1,8 @@
 body{
     font-size: larger;
 }
+
+img{
+    width: auto;
+    height: 50px;
+}
